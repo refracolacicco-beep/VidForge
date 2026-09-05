@@ -1,0 +1,15 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.mov
+*.mp4
+*.mkv
+*.avi
+*.webm
+*.m4v
+*.mts
+*.m2ts
+*.ts
+*.flv
